@@ -13,6 +13,6 @@ All rights reserved.
 - [Update-rule derivation](https://hal.telecom-paris.fr/hal-02978978v4/file/Update-rule-C-NMF.pdf)
 - [Demo](https://adasp.telecom-paris.fr/resources/2021-04-06-eeg-driven-c-nmf/)
 
-Acknowledgment
+Acknowledgement
 ----------------------------------------------------------
 This work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 765068.
