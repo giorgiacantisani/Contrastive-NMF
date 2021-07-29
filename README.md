@@ -12,6 +12,7 @@ All rights reserved.
 - [Paper + slides](https://hal.telecom-paris.fr/hal-02978978)
 - [Update-rule derivation](https://hal.telecom-paris.fr/hal-02978978v4/file/Update-rule-C-NMF.pdf)
 - [Demo](https://adasp.telecom-paris.fr/resources/2021-04-06-eeg-driven-c-nmf/)
+- [Presentation](https://www.youtube.com/watch?v=uJv2kCGFQmk)
 
 Acknowledgement
 ----------------------------------------------------------
