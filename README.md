@@ -9,7 +9,7 @@ Copyright 2020–2021 Giorgia Cantisani of Télécom Paris, Institut Polytechniq
 All rights reserved.
 
 #### Links
-- [Paper](https://hal.telecom-paris.fr/hal-02978978)
+- [Paper + slides](https://hal.telecom-paris.fr/hal-02978978)
 - [Update-rule derivation](https://hal.telecom-paris.fr/hal-02978978v4/file/Update-rule-C-NMF.pdf)
 - [Demo](https://adasp.telecom-paris.fr/resources/2021-04-06-eeg-driven-c-nmf/)
 
